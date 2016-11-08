@@ -18,6 +18,7 @@ namespace TestDotnet
 			//this comment was added in test3
 			//And also the following code
 			Console.WriteLine("Over the Bench the Goat lives, under the bench the goat dies"); 
+			//che succede se continuo a modificare il test3
 			Console.ReadLine();
 		}
 	}
