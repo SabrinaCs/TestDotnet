@@ -11,6 +11,7 @@ namespace TestDotnet
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello dolls");
+			Console.WriteLine("You know who I am");
 			Console.ReadLine();
 		}
 	}
