@@ -15,6 +15,9 @@ namespace TestDotnet
 
 			Console.WriteLine("You don't know where I am");
 			Console.WriteLine("And you'll never see me coming");
+			//this comment was added in test3
+			//And also the following code
+			Console.WriteLine("Over the Bench the Goat lives, under the bench the goat dies"); 
 			Console.ReadLine();
 		}
 	}
