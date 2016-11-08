@@ -10,6 +10,8 @@ namespace TestDotnet
 	{
 		static void Main(string[] args)
 		{
+			Console.WriteLine("Hello dolls");
+			Console.ReadLine();
 		}
 	}
 }
